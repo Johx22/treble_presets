@@ -778,8 +778,8 @@
         }
     },
     {
-        "match_property": "vendor_fp",
-        "match_value": "alps/vnd_oppo6765*",
+        "match_property": "oppo_prjname",
+        "match_value": ["20361,20362,20363,20364,20365,20366"],
         "device_name": "OPPO A54",
 
         "maintainer": {
